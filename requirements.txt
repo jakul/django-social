@@ -1,0 +1,5 @@
+#PIP requirements
+# Social Media apis
+-e git://github.com/facebook/python-sdk.git#egg=facebook
+python-twitter
+
